@@ -1,4 +1,5 @@
 glowna galaz
+main
 
 pierwszy request
 djfskljfldsjfkdsjfl
